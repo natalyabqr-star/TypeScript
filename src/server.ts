@@ -9,6 +9,6 @@ function saveUserToDatebase(user: User)  {
 console.log(user)
 }
 saveUserToDatebase({
-    name: 'natálya',
+    name: 'maria',
     age: 24
 })
