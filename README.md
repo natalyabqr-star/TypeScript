@@ -179,5 +179,6 @@ npm i zod -D
 ```
 
 ---
-
-*Documentação criada para fins de estudo e organização do projeto.*
+Essa documentação foi criada para aqueles que precisam se orientar do projeto feito, e para me ajudar a entender mais sobre a linguagem tipada do typescrit
+Usei detalhe po detalhe dos passos realizados neste projetos
+Teve como fim de mostrar as bibliotecas disponiveis no typescript
